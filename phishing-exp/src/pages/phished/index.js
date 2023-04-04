@@ -79,7 +79,7 @@ const Home = () => {
               <tr />
               <h4><b>5. Spelvouten vindne</b></h4>
               <tr />
-
+    
 
               Phishingmails kun je vaak herkennen aan spelfouten, een lay-out die niet helemaal klopt, vreemde vertalingen of rare tekens. Toch zijn de e-mails van internetcriminelen steeds moeilijker van echt te onderscheiden. Volg dus voor de zekerheid ook de onderstaande stappen.
               <tr />
